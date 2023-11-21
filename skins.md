@@ -20,6 +20,7 @@
 
 # [Kori's Pick (Latest public release)](https://drive.google.com/file/d/1tPNPZ2UrHMgfiDsebtPbZBDPdjbXW1wU/view?usp=sharing)
 ![](https://i.ppy.sh/c60b7f51865a842c4ab6d193b79af6162989d6e4/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313037323633383531323138363237333834322f313133323734393939373333353635343432302f346b2e6a7067)
+[Quaver Version](https://steamcommunity.com/sharedfiles/filedetails/?id=3018220029)
 
 # Kori's Pick Self edit (not out yet)
 ![](https://github.com/Kori3/skins/blob/main/dump%20shots/4kkorispick.png?raw=true)
